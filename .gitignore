@@ -2,3 +2,4 @@ node_modules
 .pytest_cache
 zip
 my_project
+dist
